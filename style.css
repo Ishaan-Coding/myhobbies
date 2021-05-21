@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background: linear-gradient(#fc9803 0%,#cefc03 100%);
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+#line{
+    width: 200px;
+    background-color: black;
+    height: 5px;
+    margin: 8px auto;
+}
+
+
+
+.idk{
+       list-style: none;
+    position: absolute;
+    top: 10px;
+    z-index: 10;
+    right: 30px;
+    cursor: pointer;
+}
+.ble:hover{
+    background-color: gold;
+}
+.ble{
+    
+    float: left;
+    padding: 5px;
+    color: red;
+    font-family:fantasy;
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(#00eeff 0%,#00ff40 50%,#fbff00 100%);  
+}
+a {
+ text-decoration: none;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
